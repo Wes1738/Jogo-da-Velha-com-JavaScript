@@ -254,4 +254,7 @@ function declareWinner(winner) {
     //Remove x e o
     let boxesToRemove = document.querySelectorAll(".box div");
     
+    for (let i = 0; i < boxesToRemove.length; i++) {
+        boxesToRemove[i].parentNode.removeChild(boxesToRemove[i]);        
+    }
 }
