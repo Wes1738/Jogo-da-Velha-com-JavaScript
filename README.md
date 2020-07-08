@@ -1,5 +1,5 @@
 # Jogo-da-Velha-com-JavaScript
-Jogo da Velha desenvolviso do zero Programado em JavaScript
+Jogo da Velha desenvolvido do zero Programado em JavaScript
 
 ## Gifs do Projeto
 ### 2 Jogadores
